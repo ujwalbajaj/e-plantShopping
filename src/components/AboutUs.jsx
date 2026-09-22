@@ -1,19 +1,5 @@
-const cartSlice = createSlice({
-  name: "cart",
+<h1>Paradise Nursery</h1>
 
-  initialState: [],
-
-  reducers: {
-    addItem: (state, action) => {
-      // Add product to cart
-    },
-
-    removeItem: (state, action) => {
-      // Remove product from cart
-    },
-
-    updateQuantity: (state, action) => {
-      // Update product quantity
-    }
-  }
-});
+<button>
+  Get Started
+</button>
